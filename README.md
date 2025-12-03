@@ -1,6 +1,4 @@
-# student-grade-predictor
-A simple ML model that predicts student grades based on study hours and attendance. 
-Visibility:
+
 # Student Grade Predictor
 
 A simple Machine Learning project that predicts a student's final grade using three input features:  
